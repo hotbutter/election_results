@@ -1,0 +1,12 @@
+#main {
+  margin-top: 6em;
+}
+
+#content {
+  margin: 3em;
+}
+
+.votes.votes--highlight {
+  transition: color 2s ease;
+  color: red;
+}

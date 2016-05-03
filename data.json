@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "name": "H. Clinton",
+      "votes": 348950,
+      "delegates": 48,
+      "party": "dem"
+    },
+    {
+      "name": "B. Sanders",
+      "votes": 117035,
+      "delegates": 9,
+      "party": "dem"
+    },
+    {
+      "name": "Uncommitted",
+      "votes": 61311,
+      "delegates": 1,
+      "party": "dem"
+    },
+    {
+      "name": "M. O'Malley",
+      "votes": 41026,
+      "delegates": 0,
+      "party": "dem"
+    },
+    {
+      "name": "R. De La Fuente",
+      "votes": 52415,
+      "delegates": 0,
+      "party": "dem"
+    },
+    {
+      "name": "D. Trump",
+      "votes": 418506,
+      "delegates": 36,
+      "party": "rep"
+    },
+    {
+      "name": "T. Cruz",
+      "votes": 210625,
+      "delegates": 13,
+      "party": "rep"
+    },
+    {
+      "name": "M. Rubio",
+      "votes": 212337,
+      "delegates": 1,
+      "party": "rep"
+    },
+    {
+      "name": "B. Carson",
+      "votes": 140079,
+      "delegates": 0,
+      "party": "rep"
+    },
+    {
+      "name": "J. Kasich",
+      "votes": 70027,
+      "delegates": 0,
+      "party": "rep"
+    },
+    {
+      "name": "Uncommitted",
+      "votes": 54024,
+      "delegates": 0,
+      "party": "rep"
+    },
+    {
+      "name": "J. Bush",
+      "votes": 48621,
+      "delegates": 0,
+      "party": "rep"
+    },
+    {
+      "name": "M. Huckabee",
+      "votes": 51606,
+      "delegates": 0,
+      "party": "rep"
+    },
+    {
+      "name": "R. Paul",
+      "votes": 49846,
+      "delegates": 0,
+      "party": "rep"
+    },
+    {
+      "name": "C. Christie",
+      "votes": 53967,
+      "delegates": 0,
+      "party": "rep"
+    },
+    {
+      "name": "R. Santorum",
+      "votes": 40134,
+      "delegates": 0,
+      "party": "rep"
+    },
+    {
+      "name": "C. Fiorina",
+      "votes": 46570,
+      "delegates": 0,
+      "party": "rep"
+    },
+    {
+      "name": "L. Graham",
+      "votes": 37214,
+      "delegates": 0,
+      "party": "rep"
+    }
+  ]
+}
